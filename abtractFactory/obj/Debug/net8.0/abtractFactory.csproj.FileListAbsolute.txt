@@ -1,0 +1,14 @@
+C:\Users\Tomas\source\repos\abtractFactory\bin\Debug\net8.0\abtractFactory.exe
+C:\Users\Tomas\source\repos\abtractFactory\bin\Debug\net8.0\abtractFactory.deps.json
+C:\Users\Tomas\source\repos\abtractFactory\bin\Debug\net8.0\abtractFactory.runtimeconfig.json
+C:\Users\Tomas\source\repos\abtractFactory\bin\Debug\net8.0\abtractFactory.dll
+C:\Users\Tomas\source\repos\abtractFactory\bin\Debug\net8.0\abtractFactory.pdb
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.dll
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\refint\abtractFactory.dll
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.pdb
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\abtractFactory.genruntimeconfig.cache
+C:\Users\Tomas\source\repos\abtractFactory\obj\Debug\net8.0\ref\abtractFactory.dll
